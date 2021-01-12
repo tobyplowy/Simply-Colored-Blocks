@@ -1,0 +1,5 @@
+display_picture:pic.png
+mod_name:Simply Colored Blocks!
+description:A mod that adds a few solid color blocks. Usefull for making pixelart builds. Can also be used as greenscreen for all kinds of uses. 
+mod_version = 1
+minimum_phoenix_version = v2
